@@ -55,7 +55,7 @@ The table below lists leading commercial gaming headsets alongside their compani
 
 Open-source solutions empower Linux gamers, audiophiles, and privacy-conscious users to control USB headsets, customize spatial equalizers, and even flash custom firmware.
 
-The table below is sorted in descending order by **GitHub Star Count**:
+The table below is sorted in descending order by **GitHub Stars_Count**:
 
 | 📦 Repository & Description | 🌟 Community Stars | ⚙️ Primary License & OS | ⚡ Core Features & Highlights |
 | :--- | :---: | :---: | :--- |
@@ -94,7 +94,7 @@ When evaluating gaming headset hardware and software, consider the following key
 
 1. Fork this repository.
 2. Add new commercial headsets or open-source GitHub projects to `README.md`.
-3. Follow the established markdown table structure (ensure specific pricing, free tier limits, company revenue/valuation, and star badges are included).
+3. Follow the established markdown table structure (ensure specific pricing, free tier limits, company revenue/valuation, and Stars_Badges are included).
 4. Submit a Pull Request with a short summary of the additions.
 
 ---
