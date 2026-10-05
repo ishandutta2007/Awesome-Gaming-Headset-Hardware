@@ -1,5 +1,9 @@
 # 🎧 Awesome Gaming Headset Hardware
 
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a> <a href="https://github.com/ishandutta2007/Awesome-Gaming-Headset-Hardware/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Gaming-Headset-Hardware?style=flat-square" alt="Stars"/></a> <a href="https://github.com/ishandutta2007/Awesome-Gaming-Headset-Hardware/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Gaming-Headset-Hardware?style=flat-square" alt="Forks"/></a> <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
+
 ![Awesome Gaming Headset Hardware Banner](assets/banner.svg)
 
 > **Curated Leaderboard of Commercial Headsets, SaaS Audio Control Suites & Open-Source GitHub Projects**  
@@ -21,6 +25,8 @@ This repository tracks top-tier **commercial gaming headsets**, **SaaS companion
 - [🔓 Open-Source Audio Software & Firmware](#-open-source-audio-software--firmware)
 - [💡 Key Selection Guidelines](#-key-selection-guidelines)
 - [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support](#-support)
+- [⭐ Star History](#-star-history)
 - [⚠️ Disclaimer & Risk Notice](#️-disclaimer--risk-notice)
 
 ---
@@ -93,9 +99,24 @@ When evaluating gaming headset hardware and software, consider the following key
 
 ---
 
+## 💖 Support
+
+Thank you for exploring **Awesome Gaming Headset Hardware**! If you find this curated collection helpful, please consider starring ⭐ the repository, forking it, or sharing it with fellow gamers, audiophiles, and Linux audio enthusiasts.
+
+You can also support ongoing maintenance and research by sponsoring on GitHub:  
+[![Sponsor](https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-ea4aaa?style=for-the-badge&logo=github-sponsors)](https://github.com/sponsors/ishandutta2007)
+
+---
+
+## ⭐ Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Gaming-Headset-Hardware&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Gaming-Headset-Hardware&type=date&legend=top-left)
+
+---
+
 ## ⚠️ Disclaimer & Risk Notice
 
-- This repository is a community-curated collection for educational and informational purposes.
+- This repository is a community-curated collection for educational and informational purposes. Part of the [Awesome-Awesome-Awesome](https://github.com/ishandutta2007/Awesome-Awesome-Awesome) network.
 - Commercial trademarks and product names belong to their respective owners.
 - Flashing third-party firmware (such as OpenPineBuds) or using kernel drivers is performed at your own risk.
 
